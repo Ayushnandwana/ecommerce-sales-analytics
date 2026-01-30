@@ -29,10 +29,7 @@ This project analyzes ecommerce order data to generate business insights using *
 ## 🚀 Key Insights
 - Identified top revenue-generating categories and products
 - Calculated MoM growth and customer repeat rate
-- Found delivery delays impacting customer experience
-
-## 📸 Dashboard Preview
-Add screenshots inside `PowerBI/dashboard_screenshots/`
+- Found delivery delays impacting customer experience`
 
 ## 👤 Author
 Ayush Nandwana
